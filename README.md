@@ -1,5 +1,16 @@
 # About me
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Arcade|
+|     2| Python    |
+|     3| HTML       |
+
+</details>
+
 <!--
 **MarinaKaiser/MarinaKaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
